@@ -1,0 +1,18 @@
+[
+  {
+    "title": "New recipe!",
+    "msg": "Far far away, behind the word mountains, far from the countries.",
+    "time":"today",
+    "seen":false
+  },{
+    "title": "Don’t forget to try your saved recipe",
+    "msg": "Far far away, behind the word mountains, far from the countries.",
+    "time":"today",
+    "seen":true
+  },{
+    "title": "Don’t forget to try your saved recipe",
+    "msg": "Far far away, behind the word mountains, far from the countries.",
+    "time":"yesterday",
+    "seen":true
+  }
+]

@@ -1,0 +1,5 @@
+          <LoaderKit
+            style={{width: 50, height: 50}}
+            name={'BallPulse'}
+            color={'black'}
+          />

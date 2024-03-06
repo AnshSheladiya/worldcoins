@@ -1,0 +1,246 @@
+[
+    {
+        "value": "",
+        "label": "All"
+    },
+    {
+        "value": "american-recipes",
+        "label": "American Recipes (120)"
+    },
+    {
+        "value": "andhra-recipes",
+        "label": "Andhra Recipes (38)"
+    },
+    {
+        "value": "bengali-cuisine",
+        "label": "Bengali Recipes (27)"
+    },
+    {
+        "value": "beverages",
+        "label": "Beverages (94)"
+    },
+    {
+        "value": "bread-recipes",
+        "label": "Bread Recipes (25)"
+    },
+    {
+        "value": "bread-snacks",
+        "label": "Bread Snacks (43)"
+    },
+    {
+        "value": "indian-breakfast-recipes",
+        "label": "Breakfast Recipes (137)"
+    },
+    {
+        "value": "brinjal",
+        "label": "Brinjal Recipes (18)"
+    },
+    {
+        "value": "cabbage",
+        "label": "Cabbage Recipes (13)"
+    },
+    {
+        "value": "eggfree-cakes",
+        "label": "Cake Recipes (35)"
+    },
+    {
+        "value": "capsicum",
+        "label": "Capsicum Recipes (38)"
+    },
+    {
+        "value": "cauliflower",
+        "label": "Cauliflower Recipes (16)"
+    },
+    {
+        "value": "chickpeas-recipes",
+        "label": "Chickpeas Recipes (21)"
+    },
+    {
+        "value": "chutney",
+        "label": "Chutney Recipes (36)"
+    },
+    {
+        "value": "cookies",
+        "label": "Cookies (10)"
+    },
+    {
+        "value": "indian-curry-recipes",
+        "label": "Curry Recipes (127)"
+    },
+    {
+        "value": "dal-recipes-indian-curries",
+        "label": "Dal (Lentils) & Legumes (58)"
+    },
+    {
+        "value": "dessert-recipes",
+        "label": "Dessert Recipes (93)"
+    },
+    {
+        "value": "general",
+        "label": "DIY & Collections (90)"
+    },
+    {
+        "value": "evening-snacks",
+        "label": "Evening Snacks (124)"
+    },
+    {
+        "value": "",
+        "label": "By Ingredient"
+    },
+    {
+        "value": "milk",
+        "label": "milk (66)"
+    },
+    {
+        "value": "rice",
+        "label": "rice (25)"
+    },
+    {
+        "value": "carrots",
+        "label": "carrots (24)"
+    },
+    {
+        "value": "white-button-mushrooms",
+        "label": "white button mushrooms (23)"
+    },
+    {
+        "value": "cauliflower",
+        "label": "cauliflower (16)"
+    },
+    {
+        "value": "beetroot",
+        "label": "beetroot (12)"
+    },
+    {
+        "value": "cabbage",
+        "label": "cabbage (11)"
+    },
+    {
+        "value": "baby-corn",
+        "label": "baby corn (9)"
+    },
+    {
+        "value": "spinach",
+        "label": "spinach (9)"
+    },
+    {
+        "value": "fenugreek-leaves",
+        "label": "fenugreek leaves (8)"
+    },
+    {
+        "value": "cheese",
+        "label": "cheese (5)"
+    },
+    {
+        "value": "rice-flour",
+        "label": "rice flour (4)"
+    },
+    {
+        "value": "brinjal",
+        "label": "brinjal (2)"
+    },
+    {
+        "value": "mix-vegetables",
+        "label": "mix vegetables (2)"
+    },
+    {
+        "value": "spaghetti",
+        "label": "spaghetti (2)"
+    },
+    {
+        "value": "arhar-dal",
+        "label": "arhar dal (1)"
+    },
+    {
+        "value": "chocolate",
+        "label": "chocolate (1)"
+    },
+    {
+        "value": "rajma-kidney-beans",
+        "label": "rajma (kidney beans) (1)"
+    },
+    {
+        "value": "",
+        "label": "By Cuisine"
+    },
+    {
+        "value": "north-indian",
+        "label": "North Indian (329)"
+    },
+    {
+        "value": "indian",
+        "label": "Indian (298)"
+    },
+    {
+        "value": "world",
+        "label": "World (295)"
+    },
+    {
+        "value": "south-indian",
+        "label": "South Indian (264)"
+    },
+    {
+        "value": "punjabi",
+        "label": "Punjabi (126)"
+    },
+    {
+        "value": "american",
+        "label": "American (93)"
+    },
+    {
+        "value": "maharashtrian",
+        "label": "Maharashtrian (71)"
+    },
+    {
+        "value": "tamil-nadu",
+        "label": "Tamil Nadu (65)"
+    },
+    {
+        "value": "kerala",
+        "label": "Kerala (38)"
+    },
+    {
+        "value": "indian-street-food",
+        "label": "Indian Street Food (37)"
+    },
+    {
+        "value": "indo-chinese",
+        "label": "Indo Chinese (35)"
+    },
+    {
+        "value": "gujarati",
+        "label": "Gujarati (30)"
+    },
+    {
+        "value": "karnataka",
+        "label": "Karnataka (30)"
+    },
+    {
+        "value": "italian",
+        "label": "Italian (28)"
+    },
+    {
+        "value": "bengali",
+        "label": "Bengali (26)"
+    },
+    {
+        "value": "andhra",
+        "label": "Andhra (21)"
+    },
+    {
+        "value": "hyderabadi",
+        "label": "Hyderabadi (18)"
+    },
+    {
+        "value": "goan",
+        "label": "Goan (17)"
+    },
+    {
+        "value": "mexican",
+        "label": "Mexican (12)"
+    },
+    {
+        "value": "mumbai-street-food",
+        "label": "Mumbai Street Food (10)"
+    }
+]
